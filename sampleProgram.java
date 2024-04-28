@@ -1,6 +1,7 @@
 package collectionFramework.practice;
-
-import java.security.spec.RSAOtherPrimeInfo;
+/*
+author: yet pheasa
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 
